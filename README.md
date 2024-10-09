@@ -1,7 +1,7 @@
 
 <html lang="en">
 <body bgcolor="">
-<html>
+
                     <head>
                                       <title>
                                            formulario de registro
