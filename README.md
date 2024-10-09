@@ -1,6 +1,4 @@
 
-<html lang="en">
-<body bgcolor="">
 
                     <head>
                                       <title>
@@ -71,8 +69,3 @@ al selecionar enviar sus datos estan ya registrado
 
 muchas grasias al  rellenar todo sus datos solo atualizar    
 
-
-
-
-
-</html>`
