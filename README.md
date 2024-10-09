@@ -1,5 +1,5 @@
 
-</head>
+
 <body>
 <h1>Formulario</h1>
 <form>
